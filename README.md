@@ -17,7 +17,7 @@
 
 
 
- * 邮箱地址 
+* 邮箱地址 
 		admin@duohuo.org
 
 
